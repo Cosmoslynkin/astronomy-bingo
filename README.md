@@ -1,0 +1,2 @@
+# astronomy-bingo
+test game
